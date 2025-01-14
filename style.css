@@ -18,3 +18,12 @@ h2 {
 h6 {
     color: aqua;
 }
+
+h7 {
+    color: yellow;
+    background-origin: black;
+}
+
+h8 {
+   color: black
+}
